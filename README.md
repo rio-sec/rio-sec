@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Sai Krishna (aka rio-sec)  
+# 👋 Hey, I’m Sai Krishna  
 
 🔒 Aspiring Cybersecurity Engineer | 🚀 Ethical Hacking Learner | 🛡️ Red Team Enthusiast  
 
