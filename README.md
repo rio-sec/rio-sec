@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-🔹 Languages: Python, Bash, HTML/CSS, JavaScript (learning)  
+🔹 Languages: 
 🔹 Tools: Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit  
 🔹 Platforms: TryHackMe, HackTheBox, GitHub  
 
@@ -31,9 +31,7 @@
 ---
 
 ## 🚀 Featured Projects  
-- 🔑 **Password Generator** – Simple Python-based password creator  
-- 🌐 **Port Scanner** – Network scanner using sockets  
-- 🕵️ **OSINT Tool** – Collects basic open-source intelligence data  
+-   
 
 *(More projects coming soon!)*  
 
