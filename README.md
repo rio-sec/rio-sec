@@ -20,9 +20,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rio-sec&show_icons=true&theme=tokyonight)
+## GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rio-sec&layout=compact&theme=tokyonight)
+![Repos](https://img.shields.io/badge/Public_Repos-5-blue?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-Ongoing-green?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Cybersecurity-red?style=for-the-badge)
+
 
 
 ---
