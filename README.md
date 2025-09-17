@@ -14,6 +14,7 @@
 
 ## 🛠️ Tech Stack  
 🔹 Languages: 
+
 🔹 Tools: Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit  
 🔹 Platforms: TryHackMe, HackTheBox, GitHub  
 
